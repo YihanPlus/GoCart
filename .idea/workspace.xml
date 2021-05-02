@@ -5,7 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fec5fc75-121b-4aac-8d50-eb20a0387283" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/GoCart/entity/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/GoCart_war.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/GoCart_war_exploded.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GoCart.iml" beforeDir="false" afterPath="$PROJECT_DIR$/GoCart.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/GoCart/entity/Authorities.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/GoCart/entity/Authorities.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/GoCart/entity/BillingAddress.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/GoCart/entity/BillingAddress.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/GoCart/entity/Cart.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/GoCart/entity/Cart.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/GoCart/entity/CartItem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/GoCart/entity/CartItem.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/GoCart/entity/Customer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/GoCart/entity/Customer.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,25 +35,54 @@
     <bower-package value="" />
     <bower.json value="" />
   </component>
+  <component name="ProjectId" id="1ry004UVlHbAcTSsdwBodbcesQu" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
     <property name="settings.editor.selected.configurable" value="Settings.JavaScript" />
     <property name="settings.editor.splitter.proportion" value="0.42464358" />
   </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+  </component>
   <component name="RunManager">
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="class" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fec5fc75-121b-4aac-8d50-eb20a0387283" name="Default Changelist" comment="" />
+      <created>1619932815697</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1619932815697</updated>
+      <workItem from="1619932825364" duration="1633000" />
+    </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
 </project>
