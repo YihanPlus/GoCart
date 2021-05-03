@@ -6,13 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="fec5fc75-121b-4aac-8d50-eb20a0387283" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/GoCart/Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/GoCart/Application.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/GoCart/ApplicationConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/GoCart/ApplicationConfig.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/GoCart/entity/Customer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/GoCart/entity/Customer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/GoCart/entity/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/GoCart/entity/Product.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/GoCart/entity/SalesOrder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/GoCart/entity/SalesOrder.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/GoCart/entity/ShippingAddress.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/GoCart/entity/ShippingAddress.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/GoCart/entity/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/GoCart/entity/User.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,6 +42,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
@@ -76,19 +70,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="Application.Application" />
@@ -103,7 +84,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1619932815697</updated>
-      <workItem from="1619932825364" duration="3082000" />
+      <workItem from="1619932825364" duration="3328000" />
+      <workItem from="1620024646654" duration="325000" />
     </task>
     <servers />
   </component>
