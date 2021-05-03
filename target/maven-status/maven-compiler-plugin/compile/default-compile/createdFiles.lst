@@ -1,0 +1,11 @@
+GoCart/entity/Cart.class
+GoCart/ApplicationConfig.class
+GoCart/entity/Customer.class
+GoCart/entity/User.class
+GoCart/entity/ShippingAddress.class
+GoCart/entity/SalesOrder.class
+GoCart/entity/Authorities.class
+GoCart/Application.class
+GoCart/entity/BillingAddress.class
+GoCart/entity/CartItem.class
+GoCart/entity/Product.class
